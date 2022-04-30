@@ -1,6 +1,6 @@
 ![Screen Shot 2022-04-29 at 4 56 46 PM](https://user-images.githubusercontent.com/97194651/166081856-18ee56b0-60bc-4659-bf8f-a2ae7321a8dd.png)
 
-### Hi there 👋
+### 👋 Hi there 
 ![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristinaL24&show_icons=true&theme=gotham)
 
 <!--
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my final project, Paws N Pals 
 - ⚡ Fun fact: I once ate six bowls of pho in one sitting (which I am very proud of 😄 )
 
-### About Me
+### 📝 Get to Know Me!
 Welcome! I'm Christina!
 
-Prior to entering the web development space, I was originally working towards higher education in hopes of working with pediatrics within the healthcare setting. 
+Prior to entering the web development space, I was originally working towards pursuing higher education in hopes of working with the pediatric age range within the healthcare setting. Per the recommendation of a friend, I learned how to code during the pandemic and was blown away by how fun it was. To be able to see the end result of your work was different from what I was use to. Although I am no longer pursuing this goal, my love for studying pediatrics and healthcare remain the same! 
 
 ### Stack
 
