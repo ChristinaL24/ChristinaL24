@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I once ate six bowls of pho in one sitting (which I am very proud of 😄 )
 
 ### About Me
+Welcome! I'm Christina!
+
+Prior to entering the web development space, I was originally working towards higher education in hopes of working with pediatrics within the healthcare setting. 
 
 ### Stack
 
@@ -42,7 +45,7 @@ Here are some ideas to get you started:
   </a>                                                                                                             
 </div>
 
-### Let's Connect! 📫 
+### 📫  Let's Connect! 
 <a href="https://www.linkedin.com/in/christinatle24/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>    
