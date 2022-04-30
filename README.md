@@ -22,7 +22,7 @@ Welcome! I'm Christina!
 Prior to graduating from bootcamp, I was originally working towards pursuing higher education in hopes of working with the pediatric age range within the healthcare setting. Per the recommendation of a friend, I learned how to code during the pandemic and was blown away by how fun web development is. To be able to see the immediate end result of your work was different from what I was use to (nothing beats that first Hello World) and on a whim, I enrolled myself into LearningFuze to further my knowledge in web development (check out my stack below!).
 
 Some fun facts: 
-- I once ate six bowls of pho in one sitting (which I am very proud of 😄 ).
+- I once ate six bowls of pho in one sitting (which I am very proud of 😄 )
 - A proud dog mom to a ferocious 8 lb dog
 - Currently learning tennis and golf in my down time (which I have none of)
 
