@@ -1,6 +1,6 @@
 ![Screen Shot 2022-04-29 at 4 56 46 PM](https://user-images.githubusercontent.com/97194651/166081856-18ee56b0-60bc-4659-bf8f-a2ae7321a8dd.png)
 
-### 👋 Hi there 
+### 🙋🏻‍♀️ Hi there 
 ![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristinaL24&show_icons=true&theme=gotham)
 
 <!--
@@ -27,7 +27,7 @@ Some fun facts:
 - Currently learning tennis and golf in my down time (which I have none of)
 
 
-### Stack
+### 📚 Stack
 
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
