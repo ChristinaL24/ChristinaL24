@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 -->
 
-- 🔭 I’m currently working on my final project, Paws N Pals 
-
 ### 📝 Get to Know Me!
 Welcome! I'm Christina!
 
@@ -25,6 +23,12 @@ Some fun facts:
 - I once ate six bowls of pho in one sitting (which I am very proud of 😄 )
 - A proud dog mom to a ferocious 8 lb dog
 - Currently learning tennis and golf in my down time (which I have none of)
+
+Ask me about: 
+- Why I transitioned into tech
+- My experience with teaching karate to special needs children
+- How I accidentally let a goat run off
+- Anything!
 
 
 ### 📚 Stack
