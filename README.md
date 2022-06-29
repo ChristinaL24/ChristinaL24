@@ -1,4 +1,5 @@
-![Christina Le](https://user-images.githubusercontent.com/97194651/176343606-8ff435cd-f759-4005-a287-effbb4e3bc86.png)
+![Christina Le](https://user-images.githubusercontent.com/97194651/176344022-7cf5d14a-b5c6-4e64-aeb4-767c7658836a.png)
+
 
 
 ### 🙋🏻‍♀️ Hi there 
