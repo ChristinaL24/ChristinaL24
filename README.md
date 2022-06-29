@@ -1,4 +1,5 @@
-![Screen Shot 2022-04-29 at 4 56 46 PM](https://user-images.githubusercontent.com/97194651/166081856-18ee56b0-60bc-4659-bf8f-a2ae7321a8dd.png)
+![Christina Le](https://user-images.githubusercontent.com/97194651/176343606-8ff435cd-f759-4005-a287-effbb4e3bc86.png)
+
 
 ### 🙋🏻‍♀️ Hi there 
 ![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristinaL24&show_icons=true&theme=gotham)
